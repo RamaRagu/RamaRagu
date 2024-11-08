@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rama Raguram
-- 🌱 I’m currently BSc.Computer Science 
+- 🌱 I’m currently doing BSc.Computer Science degree
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements 
 - 💬 Ask me about Tech
