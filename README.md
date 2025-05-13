@@ -63,33 +63,27 @@ Uses ML-based level detection to predict autism severity and provides interactiv
 
 ---
 
-### ⚡ Fun fact
-
-I started building MindMend before finishing my first ML course — because learning by doing is the best way! 😄
-
----
-
 ## 🛠️ Skills & Tools
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,scala,python" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,spring,express" />
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
@@ -97,30 +91,22 @@ I started building MindMend before finishing my first ML course — because lear
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### 🚀 DevOps
+### DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
-### 🧰 Software & Tools
+### Software & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,postman" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramaragu&theme=radical&column=4" alt="Trophies" />
 </p>
 
 ---
